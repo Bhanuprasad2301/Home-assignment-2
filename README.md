@@ -1,4 +1,4 @@
-Name: Bhanu prasad
+Name: Bhanu prasad dogiparthy
 id  : 700762758
 
 1)Decision Tree Classifier
